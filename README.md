@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dropbox.com/scl/fi/h0ifetwyanbetnea0oxj3/gitupbanner.gif?rlkey=sp3r5yzcsq7py4smlnb8bzyy3&st=k5mz6awi&dl=0)]
+[![MasterHead](https://img.freepik.com/premium-photo/animated-modern-young-boy-sitting-seat-with-joystick-near-desk-with-monitor-neon-signs-wall-playing-video-game-cartoon-illustration-room-interior-with-gaming-setup_76964-70167.jpg?w=1060)]
 <h1 align="center">Hi 👋, I'm Shaik Mutallib</h1>
 <h3 align="center">Full-Stack Developer Specializing in the MERN Stack</h3>
 <img align="right" alt="coding" width="400" src ="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlpOWpsemZvdjVocW45aDlobTJzN3lkeW03YzV1aWJ6N2cxMWgzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.webp">
